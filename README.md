@@ -19,7 +19,8 @@ Use #twitterfurby AND...<br>
 To talk to TwitterFurby from your Twitter account.<br>
 </pre>
 <img src="https://github.com/larsgimse/twitterfurby/blob/master/pictures/TwitterFurby.png"><br>
-Tinkercad: https://www.tinkercad.com/things/2gre31fKnqZ
+Tinkercad: https://www.tinkercad.com/things/2gre31fKnqZ<br>
+<br>
 <br>
 You need:
 1x computer (RaspberryPi Zero W)<br>
