@@ -6,16 +6,16 @@ Twitter: https://twitter.com/internetfurby<br>
 <pre>
 Use #twitterfurby AND...<br>
   #red
-  #green<br>
-  #blue<br>
-  #agua<br>
-  #yellow<br>
-  #purple<br>
-  #pink<br>
-  #rainbow<br>
-  #happy<br>
-  #alive<br>
-  #off<br>
+  #green
+  #blue
+  #agua
+  #yellow
+  #purple
+  #pink
+  #rainbow
+  #happy
+  #alive
+  #off
 <br>
 To talk to TwitterFurby from your Twitter account.<br>
 </pre>
