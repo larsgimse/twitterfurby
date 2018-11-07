@@ -16,9 +16,9 @@ Use #twitterfurby AND...<br>
   #happy<br>
   #alive<br>
   #off<br>
-</pre>
 <br>
-To talk to TwitterFurby<br>
+To talk to TwitterFurby from your Twitter account.<br>
+</pre>
 <img src="https://github.com/larsgimse/twitterfurby/blob/master/pictures/TwitterFurby.png"><br>
 ..<br>
 Tinkercad: https://www.tinkercad.com/things/2gre31fKnqZ
