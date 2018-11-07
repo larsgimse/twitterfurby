@@ -5,7 +5,7 @@ Twitter: https://twitter.com/internetfurby<br>
 <br>
 <pre>
 Use #twitterfurby AND...<br>
-  #red<br>
+  #red
   #green<br>
   #blue<br>
   #agua<br>
