@@ -3,7 +3,8 @@
 Twitter: https://twitter.com/internetfurby<br>
 <img src="https://github.com/larsgimse/twitterfurby/blob/master/pictures/twitterfurby.jpg"><br>
 <br>
-Use #twitterfurby AND...
+<pre>
+Use #twitterfurby AND...<br>
   #red<br>
   #green<br>
   #blue<br>
@@ -15,6 +16,7 @@ Use #twitterfurby AND...
   #happy<br>
   #alive<br>
   #off<br>
+</pre>
 <br>
 To talk to TwitterFurby<br>
 <img src="https://github.com/larsgimse/twitterfurby/blob/master/pictures/TwitterFurby.png"><br>
