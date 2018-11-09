@@ -6,7 +6,7 @@ Servo myservo;
 #define PIN 6
 int signalState;
 
-Adafruit_NeoPixel strip = Adafruit_NeoPixel(9, PIN, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel strip = Adafruit_NeoPixel(12, PIN, NEO_GRB + NEO_KHZ800);
 
 int red[3]    = { 255, 0, 0 };
 int yellow[3]    = { 255, 255, 0 };
