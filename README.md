@@ -12,6 +12,7 @@ Use #twitterfurby AND...<br>
   #purple
   #pink
   #rainbow
+  #dance
   #happy
   #alive
   #off
